@@ -9,7 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    // MARK: - IBOutlets
     
-
-
+    
+    // MARK: - Properties
+    
+    
+    // MARK: - IBActions
+    
+    
+    // MARK: - Private Functions
+    
 }
